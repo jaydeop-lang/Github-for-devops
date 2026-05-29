@@ -1,0 +1,31 @@
+ 143  git init
+  144  git status
+  145  dir
+  146  git status
+  147  git status
+  148  git status
+  149  git add testing.py
+  150  git add testing.py
+  151  clear
+  152  git status
+  153  git rm --cashed testing.py
+  154  git status
+  155  git rm --cashed testing.py
+  156  git status
+  157   git rm --cashed
+  158  git status
+  159  git rm --cached testing.py
+  160  git status
+  161  git add .
+  162  git status
+  163  git commit -m "added testing py"
+  164  git status
+  165  git restore testing.py
+  166  git status
+  167  ls
+  168  git ls
+  169  ll
+  170  git history
+  171  history
+  172  clear
+  173  history
